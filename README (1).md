@@ -76,32 +76,10 @@ MEME-MAKER/
 
 ---
 
-## 📸 Screenshots / Demo
 
-_Add screenshots or GIFs here to showcase the app._
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-To contribute:
-1. Fork the repository
-2. Create a new feature branch (`git checkout -b feature-name`)
-3. Commit your changes (`git commit -m "Add feature"`)
-4. Push to the branch (`git push origin feature-name`)
-5. Open a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 👨‍💻 Author
 
-- **Your Name**  
-  🔗 [GitHub](https://github.com/your-username)  
-  📧 your.email@example.com
+- **ADHITHYAN K**  
+  🔗 [GitHub](https://github.com/adiieeey)  
+  📧 adhithyan600271@gmail.com
